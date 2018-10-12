@@ -1,0 +1,12 @@
+C:\Users\JLUISXP\Source\repos\PedidoSolution\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\JLUISXP\Source\repos\PedidoSolution\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\JLUISXP\Source\repos\PedidoSolution\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\JLUISXP\Source\repos\PedidoSolution\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JLUISXP\Source\repos\PedidoSolution\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\JLUISXP\Source\repos\PedidoSolution\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Ce\Downloads\Compressed\PedidoSolution\PedidoSolution\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Ce\Downloads\Compressed\PedidoSolution\PedidoSolution\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Ce\Downloads\Compressed\PedidoSolution\PedidoSolution\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Ce\Downloads\Compressed\PedidoSolution\PedidoSolution\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ce\Downloads\Compressed\PedidoSolution\PedidoSolution\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Ce\Downloads\Compressed\PedidoSolution\PedidoSolution\ClassLibrary\obj\Debug\ClassLibrary.pdb
