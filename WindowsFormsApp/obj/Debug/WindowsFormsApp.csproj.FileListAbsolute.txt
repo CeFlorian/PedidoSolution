@@ -37,3 +37,16 @@ C:\Users\Ce\source\repos\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug
 C:\Users\Ce\source\repos\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
 C:\Users\Ce\source\repos\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
 C:\Users\Ce\source\repos\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\bin\Debug\ClassLibrary.dll
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\bin\Debug\ClassLibrary.pdb
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.ModuloPedido.resources
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Ce\Desktop\PedidoSolution\PedidoSolution\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

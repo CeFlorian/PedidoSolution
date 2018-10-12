@@ -64,8 +64,6 @@ namespace WindowsFormsApp
            
             dgvDetallePedido.DataSource = Detalle.GetList();//
            
-            
-
 
 
             //Para que los proveedores y productos ya guardados en archivo se puedan visualizar en los combobox al inicar el programa
@@ -136,10 +134,11 @@ namespace WindowsFormsApp
                 codigoProducto = codigoProducto,//le damos al codigo el del combobox seleccionado fuera de los datos de la clase Producto
             };
 
-            //invocamos o usamos el metodo
+            
             
             Pedido.DetallePedido.Add(Detalle);
 
+            //invocamos o usamos el metodo
             Pedido.Insert(Detalle);
 
             dgvDetallePedido.DataSource = Pedido.DetallePedido.ToList();
